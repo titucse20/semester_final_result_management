@@ -1,5 +1,5 @@
 # Project: Semester Final Result Management System
-Implementing a Semester Final Result Management System that includes features such as updating student profile, student add and delete, and result management involves several steps within a System Development Life Cycle (SDLC) model. I'll provide a brief overview using an Agile approach, as it is well-suited for projects with changing or evolving requirements.
+Implementing a Semester Final Result Management System that includes features such as updating student profile, student add and delete, and result management involves several steps within a Software Development Life Cycle (SDLC) model. I'll provide a brief overview using an Agile approach, as it is well-suited for projects with changing or evolving requirements.
 ***
 ![Assignment Cover Photo_page-0001](https://github.com/titucse20/semester_final_result_management/assets/92135409/5069574b-8a00-4428-b289-0e880b7df775)
 ***
